@@ -1,7 +1,3 @@
-#Use this to automaticly setup you pi
-#May work on non rpi-s
-#YOU NEED TO SETUP SOME STUFF
-echo YOU NEED TO SETUP SOME STUFF
 apt update && apt full-upgrade -y
 apt autoremove
 mkdir /home/pi/drive
